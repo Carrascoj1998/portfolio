@@ -1,0 +1,38 @@
+#name{
+    float: left;
+    background-color: aqua;
+    font-size: 20px;
+    
+}
+
+.header {
+  background-color:bisque;
+  padding: 40px;
+  right: 0;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: auto;
+  height: 40px;
+  text-align: right ;
+  border-style: hidden;
+  
+  
+}
+
+body{
+
+  background-image: url("https://media.istockphoto.com/vectors/vector-seamless-subtle-pattern-modern-stylish-texture-repeating-vector-id918098788?k=6&m=918098788&s=612x612&w=0&h=Xb09jL14bauqqZI38PrFr9rVAHEgPrVr_ojgMMmcsLU=");
+}
+
+
+footer{
+  position: fixed;
+  left: 0;
+  padding: 20px;
+  bottom: 0;
+  width: 100%;
+  background-color: aqua;
+  color: white;
+  text-align: center;
+}
