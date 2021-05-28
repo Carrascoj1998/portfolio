@@ -1,13 +1,23 @@
 #name{
-    float: left;
-    background-color: aqua;
-    font-size: 20px;
+  float: left;
+  background-color: #4aaaa5;
+  font-size: 20px;
+  padding: 25px;
+  height: 20px;
+  right: 0;
+  left: 0;
+  text-align: center;
+  color: white;
+  font-family: 'Georgia', Times, 'Times New Roman', serif;
+
+
+  
     
 }
 
 .header {
-  background-color:bisque;
-  padding: 40px;
+  background-color:#ffffff;
+  padding: 30px;
   right: 0;
   left: 0;
   position: fixed;
@@ -16,8 +26,13 @@
   height: 40px;
   text-align: right ;
   border-style: hidden;
+  font-family: 'Georgia', Times, 'Times New Roman', serif;
   
   
+}
+
+a{
+  color: #666666;
 }
 
 body{
@@ -32,7 +47,7 @@ footer{
   padding: 20px;
   bottom: 0;
   width: 100%;
-  background-color: aqua;
+  background-color: #666666;
   color: white;
   text-align: center;
 }
