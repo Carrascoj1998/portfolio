@@ -6,7 +6,7 @@ this is my first project learning how to code, with many more to come!
 ----
 I wanted to complete a portfolio as my first project!
 
-# Code style
+# Languages Used: 
 ----
 Html & Css
 
